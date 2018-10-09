@@ -10,5 +10,6 @@
 
 ![How](img/TK_how.png)
 
-# A step-by-step implementation of TrustKeeper is found in the Jupyter Notebook.
+# A step-by-step implementation of TrustKeeper is found in the [Jupyter Notebook](https://github.com/Jhird/TrustKeeper/blob/master/TrustKeeper_Bitcoin.ipynb).
+
 Network data from [SNAP](http://snap.stanford.edu/data/index.html)
