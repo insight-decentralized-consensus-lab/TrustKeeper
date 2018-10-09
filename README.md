@@ -10,3 +10,5 @@
 
 ![How](img/TK_how.png)
 
+# A step-by-step implementation of TrustKeeper is found in the Jupyter Notebook.
+Network data from [SNAP](http://snap.stanford.edu/data/index.html)
