@@ -1,8 +1,7 @@
-# TrustKeeper
+![Logo](img/TK_logo.png)
+
 
 # [Link](https://docs.google.com/presentation/d/1TplnPlDbdKjA-SrWjFvGGwRKYZulaMy5LTtwBinsyNY/edit?usp=sharing) to Google Slides presentation
-
-![Logo](img/TK_logo.png)
 
 # How users keep track of sellers' perception scores in P2P networks
 
