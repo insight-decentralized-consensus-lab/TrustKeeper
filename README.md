@@ -3,6 +3,8 @@
 
 # [Link](https://docs.google.com/presentation/d/1TplnPlDbdKjA-SrWjFvGGwRKYZulaMy5LTtwBinsyNY/edit?usp=sharing) to Google Slides presentation
 
+# [Link](https://medium.com/@jahir.brokenkite/fraud-prevention-in-peer-to-peer-p2p-transaction-networks-using-neural-nets-a-node-embedding-b14a99f8ba30) to Medium Story
+
 # How users keep track of sellers' perception scores in P2P networks
 
 ![Score](img/TK_rating.png)
